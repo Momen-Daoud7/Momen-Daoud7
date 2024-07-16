@@ -5,8 +5,7 @@
 I build AI agents that solve real-world problems. With a passion for cutting-edge technology and a knack for innovative solutions, I'm always excited to take on new challenges in the world of AI and machine learning.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/your-profile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your-handle)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-daoud/)](https://www.linkedin.com/in/momen-daoud/)
 
 ## 🛠️ Technologies & Tools
 
