@@ -1,11 +1,11 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Momen Daoud
 
-## 🚀 AI Engineer | Problem Solver | Continuous Learner
+## 🚀 Software Engineer | Problem Solver | Continuous Learner
 
 I build AI agents that solve real-world problems. With a passion for cutting-edge technology and a knack for innovative solutions, I'm always excited to take on new challenges in the world of AI and machine learning.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-daoud/)](https://www.linkedin.com/in/momen-daoud/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@momendaoud)](https://medium.com/@momendaoud)
 
 ## 🛠️ Technologies & Tools
@@ -24,50 +24,34 @@ I build AI agents that solve real-world problems. With a passion for cutting-edg
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-## 🏆 My Top Projects
-
-- [Project 1](https://github.com/your-username/project1) - Brief description
-- [Project 2](https://github.com/your-username/project2) - Brief description
-- [Project 3](https://github.com/your-username/project3) - Brief description
-
 ## 📝 Latest Blog Post
 
 - [Efficient and Elegant Web Development with Next.js: A Deep Dive into Component Streaming and Chunked Transfer Encoding](https://medium.com/@momendaoud/efficient-and-elegant-web-development-with-next-js-6087b3fd86e1)
 
 ## 💡 What I Love to Do
 
-- Building scalable and efficient AI solutions
-- Exploring cutting-edge technologies in machine learning and data science
-- Collaborating on open-source projects
-- Mentoring and sharing knowledge with fellow developers
-- Solving complex problems with innovative approaches
+- Using my programming knowledge to solve problems
+- Exploring AI technologies and their potential applications
+- Watching tech content
 
 ## 🚀 My Experiences
 
-- Developed and deployed AI-powered chatbots for customer service
-- Implemented machine learning models for predictive analytics in fintech
-- Led a team in developing a real-time data processing pipeline using Apache Kafka
-- Created full-stack web applications using React and Node.js
-- Optimized database performance for high-traffic e-commerce platforms
+- 2022: I started my professional journey as a frontend engineer at Innovation Gate (Saudi Startup accelerator)
+- 2023: I started a new role in the healthcare industry as a React developer at Circles
+- Mid-2023 - present: Due to the war situation in my country, I lost my job. I then found a new healthcare startup in the UK that was interested in me, so I joined them and now lead the product as a full-stack engineer
 
 ## 🌟 Core Beliefs
 
-- **Human-First Technology**: Technology should empower and augment human capabilities.
-- **Continuous Learning**: Embracing new technologies and methodologies is key to innovation.
-- **Ethical AI**: Developing AI systems with a strong focus on ethics and societal impact.
-- **Collaboration**: Great innovations come from diverse teams working together.
-- **Open Source**: Contributing to and leveraging open-source projects to drive progress.
+- **Coding less is more**: I believe our job as software engineers is solving problems, not just coding. Investing time in understanding the problem and thinking of multiple possible solutions is better than just taking the requirements and starting to code without actually understanding what's going on
+- **Continuous Learning**: Our field is rapidly changing, especially with AI. If you miss three months, you're out of work
+- **Fundamentals are everything**: Everything is abstract, whether it's a framework (Nestjs, Django) or library (React). Investing time in understanding the fundamentals will get you into the top 1%
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile/)
+- LinkedIn: [Momen Daoud](https://www.linkedin.com/in/momen-daoud/)
 - Medium: [@momendaoud](https://medium.com/@momendaoud)
-- Email: your.email@example.com
+- Email: momendaoud.soft@gmail.com
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [Momen Daoud](https://github.com/Momen-Daoud7)
