@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Momen Daoud
 
-## 🚀 Software Engineer | Problem Solver | Continuous Learner
+## 🚀 Software Engineer | Problem Solver 
 
 I build AI agents that solve real-world problems. With a passion for cutting-edge technology and a knack for innovative solutions, I'm always excited to take on new challenges in the world of AI and machine learning.
 
