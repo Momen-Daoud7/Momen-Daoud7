@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Momen Daoud
 
 ## 🚀 Software Engineer | Problem Solver | Continuous Learner
 
@@ -35,8 +35,8 @@ I build AI agents that solve real-world problems. With a passion for cutting-edg
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/momen-daoud))
-- Medium: [@YourTwitter]([https://twitter.com/your-handle](https://medium.com/@momendaoud))
+- LinkedIn: ([https://www.linkedin.com/in/momen-daoud/]
+- Medium: ({https://medium.com/@momendaoud])
 - Email: momendaoud.soft@gmail.com
 
 ---
