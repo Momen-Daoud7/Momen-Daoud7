@@ -2,7 +2,8 @@
 
 ## 🚀 Software Engineer | Problem Solver 
 
-A career in programming has always been my passion. I remember the day I missed my first programming lecture at university, and how it left me feeling lost and confused. But I didn't let that stop me. I turned to YouTube and watched a couple of C++ tutorials, and before I knew it, I was hooked. I loved the idea of building something that people could interact with. A few weeks later, I got into web development, and I've been doing it ever since. My favorite part of programming is the problem-solving aspect. I love the feeling of finally figuring out a solution to a problem. I'm currently on the lookout for a role in backend web development, ideally writing Javascript or Python. I do like to work on AI projects or a startup that has some AI projects in mind. If you're hiring, let's chat!
+A career in programming has always been my passion. I remember the day I missed my first programming lecture at university, and how it left me feeling lost and confused. But I didn't let that stop me. I turned to YouTube and watched a couple of C++ tutorials, and before I knew it, I was hooked. I loved the idea of building something that people could interact with. A few weeks later, I got into web development, and I've been doing it ever since. My favorite part of programming is the problem-solving aspect. I love the feeling of finally figuring out a solution to a problem. 
+I'm currently on the lookout for a role in backend web development, ideally writing Javascript or Python. I do like to work on AI projects or a startup that has some AI projects in mind. If you're hiring, let's chat!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-daoud/)](https://www.linkedin.com/in/momen-daoud/)
