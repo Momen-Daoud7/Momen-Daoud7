@@ -36,8 +36,15 @@ I'm a software engineer with a passion for solving complex problems through inno
 
 - **Full Stack Engineer** at Acutee, London (Remote) - Sep 2023 to Present
   - Leading the development of an AI-driven diagnostic platform
+
+- **Freelance Full Stack Engineer** - Feb 2021 to Present
+  - Delivering custom web applications for diverse clients
+  - Specializing in e-commerce platforms and personalized websites
+  - Implementing AI-powered features to enhance application functionality
+
 - **React Developer** at Circles, Khartoum - Mar 2023 to Aug 2023
   - Developed healthcare management solutions
+
 - **React Developer** at iGate Studio, Saudi Arabia - Nov 2022 to Sep 2023
   - Created applications for various startup clients
 
