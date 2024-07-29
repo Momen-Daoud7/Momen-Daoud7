@@ -4,9 +4,10 @@
 
 I'm a software engineer with a passion for solving complex problems through innovative solutions. My expertise lies in frontend development with React, and I specialize in integrating AI to create cutting-edge applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white&link=https://momendaoud.com)](https://momendaoud.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/momen-daoud/)](https://www.linkedin.com/in/momen-daoud/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@momendaoud)](https://medium.com/@momendaoud)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 
 ## 🚀 What I Do
 
@@ -44,6 +45,12 @@ I'm a software engineer with a passion for solving complex problems through inno
 ## 📝 Latest Blog Post
 
 - [Efficient and Elegant Web Development with Next.js: A Deep Dive into Component Streaming and Chunked Transfer Encoding](https://medium.com/@momendaoud/efficient-and-elegant-web-development-with-next-js-6087b3fd86e1)
+
+## 🚀 Ready to Innovate?
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Visit my [portfolio website](https://momendaoud.com) to learn more about my work, or reach out directly to start a conversation!
+
+[View My Portfolio](https://momendaoud.com)
 
 ## 📫 Get in Touch
 
