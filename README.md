@@ -50,9 +50,12 @@ I'm a software engineer with a passion for solving complex problems through inno
 
 ## 🌟 Core Beliefs
 
-- **Problem-First Approach**: Understand deeply, then code efficiently
-- **Continuous Learning**: Stay updated with rapidly evolving technologies
-- **AI Integration**: Leverage AI to create smarter, more efficient solutions
+- **Embrace AI or Fall Behind**: In today's rapidly evolving tech landscape, leveraging AI is not just an advantage—it's a necessity. I integrate AI to create cutting-edge solutions that keep my clients ahead of the curve.
+- **Problem Understanding is Half the Solution**: I believe that thoroughly grasping the challenge at hand is crucial. By investing time in understanding the problem, we pave the way for more effective and efficient solutions.
+- **Solve Problems, Not Just Write Code**: The essence of software engineering isn't about lines of code—it's about solving real-world problems. I focus on creating solutions that drive tangible results and add value to businesses and users.
+- **Once you stop learning, You start dying**: Continuous Learning is Vital in the dynamic field of technology, learning never stops. I'm committed to constant growth and adaptation, ensuring that my skills and knowledge remain sharp and relevant.
+- **Manual First, Then Automate**: I believe in building solutions manually first, thoroughly testing them, and then automating once proven effective. This approach ensures reliability and maintains simplicity in the final product.
+- **Keep It Simple**: Simplicity is key in creating maintainable and scalable solutions. I strive to develop clean, straightforward systems that solve complex problems without unnecessary complications.
 
 ## 📝 Latest Blog Post
 
